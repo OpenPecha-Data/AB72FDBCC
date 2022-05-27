@@ -1,0 +1,13 @@
+segment_sources:
+  I4D4ED6AF:
+    type: origin_type
+    relation: translation
+    language: sa
+  I04097D96:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  66823c7583594242b8d82ca05873d84a:
+    I4D4ED6AF: 45b392b0ea5b4331af3f75672c3adbd0
+    I04097D96: ae51f50898374dcab36ac5a03170c13d
